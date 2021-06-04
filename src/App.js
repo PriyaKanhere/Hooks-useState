@@ -1,5 +1,5 @@
 import './App.css';
-import { useEffect, useState } from 'react'
+import React from 'react'
 import ClassCounter from '../src/components/classCounter'
 import FunctionCounter from '../src/components/functionCounter'
 import FunctionCounter2 from '../src/components/functionCounter2'
